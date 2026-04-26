@@ -10,3 +10,6 @@ DSA + System Design
 Specialize:
 AI (GenAI + Python)
 DevOps (Cloud + Docker)
+
+How all these work on a platform, frontend is not only login or header or footer. It's about connecting dots in the backend.
+Backend is not only authentication, it is connecting the authorization.
